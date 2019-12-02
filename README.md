@@ -39,7 +39,7 @@ Importing ROMs from DropBox
 The Developers
 ========
 * HTV04 [@HTV04](https://github.com/HTV04)
-* Autumn Rowan [@rowanaut20](https://github.com/rowanaut20) (Thanks so much for helping me get this to work again!)
+* Autumn Rowan [@autumnation](https://github.com/autumnation) (Thanks so much for helping me get this to work again!)
 * Heath123 [@Heath123](https://github.com/Heath123) (Nearest neighbor scaling)
 
 Original Developers:
